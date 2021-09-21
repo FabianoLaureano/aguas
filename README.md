@@ -1,4 +1,4 @@
-![covid](https://user-images.githubusercontent.com/5856379/134094352-45e1324f-7470-4d13-a843-7b5470f63be0.jpg)
+![aguas](https://user-images.githubusercontent.com/5856379/134097722-d8c9fd13-8bb7-4869-9864-d99368fa3aad.jpg)
 
 ## 🧪 Tecnologias
 
