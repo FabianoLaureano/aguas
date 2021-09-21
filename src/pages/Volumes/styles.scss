@@ -1,0 +1,66 @@
+* {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.allVolumes {
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    width: 800px;
+
+    .p {
+        width: 30%;
+    }
+
+    .s {
+        width: 70%;
+    }
+  
+    table {
+      width: 100%;
+      text-transform: uppercase;
+
+      tbody {
+        width: 100%;
+      }
+  
+      th, td {
+        padding: 0.75rem 1rem;
+        border-bottom: 1px solid #000;
+        border-left: 1px solid #000;
+        border-top: 1px solid #000;
+        border-right: 1px solid #000;
+      }
+  
+      th {
+        color: #000;
+        //text-transform: uppercase;
+        font: 500 0.875rem Lexend, sans-serif;
+        text-align: center;
+      }
+  
+      td {
+        font-size: 500 0.75rem Lexend, sans-serif;
+  
+        img {
+            width: 5rem;
+            height: 3.5rem;
+            border-radius: 50%
+        }
+  
+        a {
+          color: #494D4B;
+          font-family: Lexend, sans-serif;
+          font-weight: 600;
+          text-decoration: none;
+          line-height: 1.4rem;
+          font-size: 1rem;
+          cursor: pointer;
+  
+          &:hover {
+            text-decoration: underline;
+          }
+        }        
+      }
+    }
+}

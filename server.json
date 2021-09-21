@@ -1,0 +1,1210 @@
+{
+  "acudes": [
+    {
+      "Nome": "Acauã (Argemiro de Figueiredo)",
+      "Bacia": "Região do Médio Curso do Rio Paraíba",
+      "Município": "Itatuba",
+      "Capac. Máxima (m³)": "253.000.000",
+      "Volume Atual (m³)": "32.094.969",
+      "Volume total (%)": "12,69",
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Albino",
+      "Bacia": "Piancó",
+      "Município": "Imaculada",
+      "Capac. Máxima (m³)": "1.833.955",
+      "Volume Atual (m³)": "1.491.192",
+      "Volume total (%)": "81,31",
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Algodão",
+      "Bacia": "Curimatau",
+      "Município": "Algodão de Jandaíra",
+      "Capac. Máxima (m³)": "1.025.425",
+      "Volume Atual (m³)": "329.36",
+      "Volume total (%)": "32,12",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Araçagi",
+      "Bacia": "Mamanguape",
+      "Município": "Araçagi",
+      "Capac. Máxima (m³)": "63.289.037",
+      "Volume Atual (m³)": "46.698.436",
+      "Volume total (%)": "73,79",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Arrojado",
+      "Bacia": "Peixe",
+      "Município": "Uiraúna",
+      "Capac. Máxima (m³)": "3.596.180",
+      "Volume Atual (m³)": "742.166",
+      "Volume total (%)": "20,64",
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Baião",
+      "Bacia": "Região do Médio Curso do Rio Piranhas",
+      "Município": "Belém do Brejo do Cruz",
+      "Capac. Máxima (m³)": "39.226.628",
+      "Volume Atual (m³)": "24.988.628",
+      "Volume total (%)": "63,70",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Bartolomeu I",
+      "Bacia": "Região do Alto Curso do Rio Piranhas",
+      "Município": "Bonito de Santa Fé",
+      "Capac. Máxima (m³)": "17.570.556",
+      "Volume Atual (m³)": "11.680.144",
+      "Volume total (%)": "66,48",
+      "Data do registro": "22/07/2021"
+    },
+    {
+      "Nome": "Bastiana",
+      "Bacia": "Espinharas",
+      "Município": "Teixeira",
+      "Capac. Máxima (m³)": "1.271.560",
+      "Volume Atual (m³)": "95.16",
+      "Volume total (%)": "7,48",
+      "Data do registro": "24/07/2021"
+    },
+    {
+      "Nome": "Bichinho",
+      "Bacia": "Região do Alto Curso do Rio Paraíba",
+      "Município": "Barra de São Miguel",
+      "Capac. Máxima (m³)": "4.574.375",
+      "Volume Atual (m³)": "1.306.890",
+      "Volume total (%)": "28,57",
+      "Data do registro": "23/07/2021"
+    },
+    {
+      "Nome": "Bom Jesus",
+      "Bacia": "Região do Alto Curso do Rio Piranhas",
+      "Município": "Carrapateira",
+      "Capac. Máxima (m³)": "343.8",
+      "Volume Atual (m³)": "307.512",
+      "Volume total (%)": "89,45",
+      "Data do registro": "15/07/2021"
+    },
+    {
+      "Nome": "Bom Jesus II",
+      "Bacia": "Piancó",
+      "Município": "Agua Branca",
+      "Capac. Máxima (m³)": "14.636.457",
+      "Volume Atual (m³)": "13.777.109",
+      "Volume total (%)": "94,13",
+      "Data do registro": "21/07/2021"
+    },
+    {
+      "Nome": "Boqueirão do Cais",
+      "Bacia": "Jacu",
+      "Município": "Cuité",
+      "Capac. Máxima (m³)": "12.367.300",
+      "Volume Atual (m³)": "1.896.645",
+      "Volume total (%)": "15,34",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Brejinho",
+      "Bacia": "Mamanguape",
+      "Município": "Juarez Távora",
+      "Capac. Máxima (m³)": "789",
+      "Volume Atual (m³)": "51.364",
+      "Volume total (%)": "6,51",
+      "Data do registro": "01/07/2021"
+    },
+    {
+      "Nome": "Bruscas",
+      "Bacia": "Piancó",
+      "Município": "Curral Velho",
+      "Capac. Máxima (m³)": "38.206.463",
+      "Volume Atual (m³)": "16.089.199",
+      "Volume total (%)": "42,11",
+      "Data do registro": "23/07/2021"
+    },
+    {
+      "Nome": "Cachoeira da Vaca",
+      "Bacia": "Peixe",
+      "Município": "Cachoeira dos Índios",
+      "Capac. Máxima (m³)": "339.156",
+      "Volume Atual (m³)": "271.483",
+      "Volume total (%)": "80,05",
+      "Data do registro": "22/07/2021"
+    },
+    {
+      "Nome": "Cachoeira dos Alves",
+      "Bacia": "Piancó",
+      "Município": "Itaporanga",
+      "Capac. Máxima (m³)": "10.611.196",
+      "Volume Atual (m³)": "9.373.610",
+      "Volume total (%)": "88,34",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Cachoeira dos Cegos",
+      "Bacia": "Piancó",
+      "Município": "Catingueira",
+      "Capac. Máxima (m³)": "71.887.047",
+      "Volume Atual (m³)": "49.892.168",
+      "Volume total (%)": "69,40",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Cacimba de Várzea",
+      "Bacia": "Curimatau",
+      "Município": "Cacimba de Dentro",
+      "Capac. Máxima (m³)": "9.264.321",
+      "Volume Atual (m³)": "7.997.296",
+      "Volume total (%)": "86,32",
+      "Data do registro": "13/07/2021"
+    },
+    {
+      "Nome": "Cacimbinha",
+      "Bacia": "Seridó",
+      "Município": "São Vicente do Seridó",
+      "Capac. Máxima (m³)": "2.156.560",
+      "Volume Atual (m³)": "147.268",
+      "Volume total (%)": "6,83",
+      "Data do registro": "04/07/2021"
+    },
+    {
+      "Nome": "Cafundó",
+      "Bacia": "Piancó",
+      "Município": "Serra Grande",
+      "Capac. Máxima (m³)": "313.68",
+      "Volume Atual (m³)": "262.104",
+      "Volume total (%)": "83,56",
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Camalaú",
+      "Bacia": "Região do Alto Curso do Rio Paraíba",
+      "Município": "Camalaú",
+      "Capac. Máxima (m³)": "48.107.240",
+      "Volume Atual (m³)": "38.409.646",
+      "Volume total (%)": "79,84",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Campos",
+      "Bacia": "Região do Alto Curso do Rio Paraíba",
+      "Município": "Caraúbas",
+      "Capac. Máxima (m³)": "6.594.392",
+      "Volume Atual (m³)": "19.325",
+      "Volume total (%)": "0,29",
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Canafístula II",
+      "Bacia": "Mamanguape",
+      "Município": "Borborema",
+      "Capac. Máxima (m³)": "4.102.626",
+      "Volume Atual (m³)": "123.575",
+      "Volume total (%)": "3,01",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Capivara",
+      "Bacia": "Peixe",
+      "Município": "Uiraúna",
+      "Capac. Máxima (m³)": "37.549.827",
+      "Volume Atual (m³)": "2.174.037",
+      "Volume total (%)": "5,79",
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Capoeira",
+      "Bacia": "Espinharas",
+      "Município": "Santa Teresinha",
+      "Capac. Máxima (m³)": "53.450.000",
+      "Volume Atual (m³)": "27.855.735",
+      "Volume total (%)": "52,12",
+      "Data do registro": "21/07/2021"
+    },
+    {
+      "Nome": "Caraibeiras",
+      "Bacia": "Seridó",
+      "Município": "Picuí",
+      "Capac. Máxima (m³)": "2.709.260",
+      "Volume Atual (m³)": "1.079.212",
+      "Volume total (%)": "39,83",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Carneiro",
+      "Bacia": "Região do Médio Curso do Rio Piranhas",
+      "Município": "Jericó",
+      "Capac. Máxima (m³)": "31.285.875",
+      "Volume Atual (m³)": "18.374.340",
+      "Volume total (%)": "58,73",
+      "Data do registro": "23/07/2021"
+    },
+    {
+      "Nome": "Catolé I",
+      "Bacia": "Piancó",
+      "Município": "Manaíra",
+      "Capac. Máxima (m³)": "10.500.000",
+      "Volume Atual (m³)": "8.356.945",
+      "Volume total (%)": "79,59",
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Chupadouro I",
+      "Bacia": "Peixe",
+      "Município": "São João do Rio do Peixe",
+      "Capac. Máxima (m³)": "2.764.100",
+      "Volume Atual (m³)": "1.383.524",
+      "Volume total (%)": "50,05",
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Chupadouro II",
+      "Bacia": "Mamanguape",
+      "Município": "Serra Redonda",
+      "Capac. Máxima (m³)": "634.62",
+      "Volume Atual (m³)": "6.068",
+      "Volume total (%)": "0,96",
+      "Data do registro": "19/07/2021"
+    },
+    {
+      "Nome": "Chã dos Pereiras",
+      "Bacia": "Região do Baixo Curso do Rio Paraíba",
+      "Município": "Ingá",
+      "Capac. Máxima (m³)": "1.965.600",
+      "Volume Atual (m³)": "524.83",
+      "Volume total (%)": "26,70",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Cochos",
+      "Bacia": "Piancó",
+      "Município": "Igaracy",
+      "Capac. Máxima (m³)": "4.199.773",
+      "Volume Atual (m³)": "3.751.123",
+      "Volume total (%)": "89,32",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Condado",
+      "Bacia": "Piancó",
+      "Município": "Conceição",
+      "Capac. Máxima (m³)": "35.016.000",
+      "Volume Atual (m³)": "14.461.040",
+      "Volume total (%)": "41,30",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Cordeiro",
+      "Bacia": "Região do Alto Curso do Rio Paraíba",
+      "Município": "Congo",
+      "Capac. Máxima (m³)": "69.965.945",
+      "Volume Atual (m³)": "46.269.232",
+      "Volume total (%)": "66,13",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Coremas",
+      "Bacia": "Piancó",
+      "Município": "Coremas",
+      "Capac. Máxima (m³)": "744.144.694",
+      "Volume Atual (m³)": "376.331.528",
+      "Volume total (%)": "50,57",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Coronel Jueca",
+      "Bacia": "Taperoá",
+      "Município": "Cacimbas",
+      "Capac. Máxima (m³)": "6.126.875",
+      "Volume Atual (m³)": "2.436.475",
+      "Volume total (%)": "39,77",
+      "Data do registro": "06/07/2021"
+    },
+    {
+      "Nome": "Covão",
+      "Bacia": "Mamanguape",
+      "Município": "Areial",
+      "Capac. Máxima (m³)": 672.26,
+      "Volume Atual (m³)": 0,
+      "Volume total (%)": 0,
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Curimataú",
+      "Bacia": "Curimatau",
+      "Município": "Barra de Santa Rosa",
+      "Capac. Máxima (m³)": "5.989.250",
+      "Volume Atual (m³)": "1.988.500",
+      "Volume total (%)": "33,20",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Duas Estradas",
+      "Bacia": "Camaratuba",
+      "Município": "Duas Estradas",
+      "Capac. Máxima (m³)": 410.26,
+      "Volume Atual (m³)": 86.839,
+      "Volume total (%)": "21,17",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Emas",
+      "Bacia": "Piancó",
+      "Município": "Emas",
+      "Capac. Máxima (m³)": "2.013.750",
+      "Volume Atual (m³)": "1.063.357",
+      "Volume total (%)": "52,80",
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Emídio",
+      "Bacia": "Mamanguape",
+      "Município": "Montadas",
+      "Capac. Máxima (m³)": 461.151,
+      "Volume Atual (m³)": 0,
+      "Volume total (%)": 0,
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Engenheiro Arcoverde",
+      "Bacia": "Região do Médio Curso do Rio Piranhas",
+      "Município": "Condado",
+      "Capac. Máxima (m³)": "36.834.375",
+      "Volume Atual (m³)": "16.121.550",
+      "Volume total (%)": "43,77",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Engenheiro Avidos",
+      "Bacia": "Região do Alto Curso do Rio Piranhas",
+      "Município": "Cajazeiras",
+      "Capac. Máxima (m³)": "293.617.376",
+      "Volume Atual (m³)": "98.678.078",
+      "Volume total (%)": "33,61",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Epitácio Pessoa",
+      "Bacia": "Região do Alto Curso do Rio Paraíba",
+      "Município": "Boqueirão",
+      "Capac. Máxima (m³)": "466.525.964",
+      "Volume Atual (m³)": "187.567.680",
+      "Volume total (%)": "40,21",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Escondido",
+      "Bacia": "Região do Médio Curso do Rio Piranhas",
+      "Município": "Belém do Brejo do Cruz",
+      "Capac. Máxima (m³)": "16.579.250",
+      "Volume Atual (m³)": "4.919.521",
+      "Volume total (%)": "29,67",
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Farinha",
+      "Bacia": "Espinharas",
+      "Município": "Patos",
+      "Capac. Máxima (m³)": "25.738.500",
+      "Volume Atual (m³)": "12.867.822",
+      "Volume total (%)": "49,99",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Felismina Queiroz",
+      "Bacia": "Seridó",
+      "Município": "São Vicente do Seridó",
+      "Capac. Máxima (m³)": "2.060.000",
+      "Volume Atual (m³)": "1.109.283",
+      "Volume total (%)": "53,85",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Frutuoso II",
+      "Bacia": "Piancó",
+      "Município": "Aguiar",
+      "Capac. Máxima (m³)": "3.517.220",
+      "Volume Atual (m³)": "2.682.088",
+      "Volume total (%)": "76,26",
+      "Data do registro": "23/07/2021"
+    },
+    {
+      "Nome": "Gamela",
+      "Bacia": "Peixe",
+      "Município": "Triunfo",
+      "Capac. Máxima (m³)": 472.926,
+      "Volume Atual (m³)": 427.005,
+      "Volume total (%)": "90,29",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Gavião",
+      "Bacia": "Região do Baixo Curso do Rio Paraíba",
+      "Município": "Fagundes",
+      "Capac. Máxima (m³)": "1.450.840",
+      "Volume Atual (m³)": 631,
+      "Volume total (%)": "43,49",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Glória",
+      "Bacia": "Piancó",
+      "Município": "Juru",
+      "Capac. Máxima (m³)": "1.349.980",
+      "Volume Atual (m³)": "1.181.163",
+      "Volume total (%)": "87,49",
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Gramame / Mamuaba",
+      "Bacia": "Gramame",
+      "Município": "Conde",
+      "Capac. Máxima (m³)": "56.937.000",
+      "Volume Atual (m³)": "45.445.320",
+      "Volume total (%)": "79,82",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Gurjão",
+      "Bacia": "Taperoá",
+      "Município": "Gurjão",
+      "Capac. Máxima (m³)": "3.683.875",
+      "Volume Atual (m³)": 479.385,
+      "Volume total (%)": "13,01",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Jandaia",
+      "Bacia": "Curimatau",
+      "Município": "Bananeiras",
+      "Capac. Máxima (m³)": "10.032.266",
+      "Volume Atual (m³)": 515.533,
+      "Volume total (%)": "5,14",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Jangada",
+      "Bacia": "Mamanguape",
+      "Município": "Mamanguape",
+      "Capac. Máxima (m³)": 470,
+      "Volume Atual (m³)": 444.5,
+      "Volume total (%)": "94,57",
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Jatobá I",
+      "Bacia": "Espinharas",
+      "Município": "Patos",
+      "Capac. Máxima (m³)": "17.516.000",
+      "Volume Atual (m³)": "11.022.015",
+      "Volume total (%)": "62,93",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Jatobá II",
+      "Bacia": "Piancó",
+      "Município": "Princesa Isabel",
+      "Capac. Máxima (m³)": "5.660.979",
+      "Volume Atual (m³)": "3.949.443",
+      "Volume total (%)": "69,77",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Jenipapeiro",
+      "Bacia": "Região do Alto Curso do Rio Piranhas",
+      "Município": "São José da Lagoa Tapada",
+      "Capac. Máxima (m³)": "1.948.300",
+      "Volume Atual (m³)": "1.651.140",
+      "Volume total (%)": "84,75",
+      "Data do registro": "19/07/2021"
+    },
+    {
+      "Nome": "Jenipapeiro (Buiú)",
+      "Bacia": "Piancó",
+      "Município": "Olho D`Água",
+      "Capac. Máxima (m³)": "70.757.250",
+      "Volume Atual (m³)": "27.671.192",
+      "Volume total (%)": "39,11",
+      "Data do registro": "25/07/2021"
+    },
+    {
+      "Nome": "Jeremias",
+      "Bacia": "Taperoá",
+      "Município": "Desterro",
+      "Capac. Máxima (m³)": "4.658.430",
+      "Volume Atual (m³)": 668.365,
+      "Volume total (%)": "14,35",
+      "Data do registro": "09/07/2021"
+    },
+    {
+      "Nome": "José Rodrigues",
+      "Bacia": "Região do Baixo Curso do Rio Paraíba",
+      "Município": "Campina Grande",
+      "Capac. Máxima (m³)": "22.332.348",
+      "Volume Atual (m³)": "2.832.378",
+      "Volume total (%)": "12,68",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Lagoa do Arroz",
+      "Bacia": "Peixe",
+      "Município": "Cajazeiras",
+      "Capac. Máxima (m³)": "80.388.537",
+      "Volume Atual (m³)": "34.697.808",
+      "Volume total (%)": "43,16",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Lagoa do Matias",
+      "Bacia": "Mamanguape",
+      "Município": "Bananeiras",
+      "Capac. Máxima (m³)": "1.239.883",
+      "Volume Atual (m³)": 360.62,
+      "Volume total (%)": "29,09",
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Lagoa do Meio",
+      "Bacia": "Taperoá",
+      "Município": "Taperoá",
+      "Capac. Máxima (m³)": "6.647.875",
+      "Volume Atual (m³)": 424.212,
+      "Volume total (%)": "6,38",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Lancha I",
+      "Bacia": "Piancó",
+      "Município": "Aguiar",
+      "Capac. Máxima (m³)": "5.675.800",
+      "Volume Atual (m³)": "5.440.825",
+      "Volume total (%)": "95,86",
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Livramento (Russos)",
+      "Bacia": "Taperoá",
+      "Município": "Gurjão",
+      "Capac. Máxima (m³)": "2.432.420",
+      "Volume Atual (m³)": "1.534.922",
+      "Volume total (%)": "63,10",
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Mameluco",
+      "Bacia": "Piancó",
+      "Município": "Ibiara",
+      "Capac. Máxima (m³)": "6.041.750",
+      "Volume Atual (m³)": "4.838.370",
+      "Volume total (%)": "80,08",
+      "Data do registro": "05/07/2021"
+    },
+    {
+      "Nome": "Manguape",
+      "Bacia": "Mamanguape",
+      "Município": "São Sebastião de Lagoa de Roça",
+      "Capac. Máxima (m³)": 655.375,
+      "Volume Atual (m³)": 0,
+      "Volume total (%)": 0,
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Marés",
+      "Bacia": "Região do Baixo Curso do Rio Paraíba",
+      "Município": "João Pessoa",
+      "Capac. Máxima (m³)": "2.136.637",
+      "Volume Atual (m³)": "2.022.513",
+      "Volume total (%)": "94,66",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Massaranduba",
+      "Bacia": "Mamanguape",
+      "Município": "Massaranduba",
+      "Capac. Máxima (m³)": 604.39,
+      "Volume Atual (m³)": 37.408,
+      "Volume total (%)": "6,19",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Milhã (Evaldo Gonçalves)",
+      "Bacia": "Região do Médio Curso do Rio Paraíba",
+      "Município": "Puxinanã",
+      "Capac. Máxima (m³)": 802.684,
+      "Volume Atual (m³)": 18,
+      "Volume total (%)": 0,
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Mucutu",
+      "Bacia": "Taperoá",
+      "Município": "Juazeirinho",
+      "Capac. Máxima (m³)": "25.370.000",
+      "Volume Atual (m³)": "1.910.872",
+      "Volume total (%)": "7,53",
+      "Data do registro": "03/07/2021"
+    },
+    {
+      "Nome": "Mãe dÁgua",
+      "Bacia": "Piancó",
+      "Município": "Coremas",
+      "Capac. Máxima (m³)": "545.017.499",
+      "Volume Atual (m³)": "275.738.794",
+      "Volume total (%)": "50,59",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Namorado",
+      "Bacia": "Taperoá",
+      "Município": "São João do Cariri",
+      "Capac. Máxima (m³)": "2.118.980",
+      "Volume Atual (m³)": 302.855,
+      "Volume total (%)": "14,29",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Nova Camará",
+      "Bacia": "Mamanguape",
+      "Município": "Alagoa Nova",
+      "Capac. Máxima (m³)": "26.581.614",
+      "Volume Atual (m³)": 101.733,
+      "Volume total (%)": "0,38",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Novo II",
+      "Bacia": "Piancó",
+      "Município": "Tavares",
+      "Capac. Máxima (m³)": 706.08,
+      "Volume Atual (m³)": 428.52,
+      "Volume total (%)": "60,69",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Olho dÁgua",
+      "Bacia": "Região do Baixo Curso do Rio Paraíba",
+      "Município": "Mari",
+      "Capac. Máxima (m³)": 868.32,
+      "Volume Atual (m³)": 797.97,
+      "Volume total (%)": "91,90",
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Olivedos",
+      "Bacia": "Taperoá",
+      "Município": "Olivedos",
+      "Capac. Máxima (m³)": "5.875.124",
+      "Volume Atual (m³)": 22.18,
+      "Volume total (%)": "0,38",
+      "Data do registro": "24/07/2021"
+    },
+    {
+      "Nome": "Ouro Velho",
+      "Bacia": "Região do Alto Curso do Rio Paraíba",
+      "Município": "Ouro Velho",
+      "Capac. Máxima (m³)": "1.675.800",
+      "Volume Atual (m³)": 0,
+      "Volume total (%)": 0,
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Paraíso (Luiz Oliveira)",
+      "Bacia": "Peixe",
+      "Município": "São Francisco",
+      "Capac. Máxima (m³)": "5.340.024",
+      "Volume Atual (m³)": "3.628.408",
+      "Volume total (%)": "67,95",
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Pedra Lisa",
+      "Bacia": "Piancó",
+      "Município": "Imaculada",
+      "Capac. Máxima (m³)": "4.929.420",
+      "Volume Atual (m³)": 27.73,
+      "Volume total (%)": "0,56",
+      "Data do registro": "06/07/2021"
+    },
+    {
+      "Nome": "Pilões",
+      "Bacia": "Peixe",
+      "Município": "São João do Rio do Peixe",
+      "Capac. Máxima (m³)": "7.888.854",
+      "Volume Atual (m³)": "6.090.000",
+      "Volume total (%)": "77,20",
+      "Data do registro": "21/07/2021"
+    },
+    {
+      "Nome": "Pimenta",
+      "Bacia": "Piancó",
+      "Município": "São José de Caiana",
+      "Capac. Máxima (m³)": 255.744,
+      "Volume Atual (m³)": 226.922,
+      "Volume total (%)": "88,73",
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Piranhas",
+      "Bacia": "Piancó",
+      "Município": "Ibiara",
+      "Capac. Máxima (m³)": "25.696.200",
+      "Volume Atual (m³)": "13.659.324",
+      "Volume total (%)": "53,16",
+      "Data do registro": "19/07/2021"
+    },
+    {
+      "Nome": "Pirpirituba",
+      "Bacia": "Mamanguape",
+      "Município": "Pirpirituba",
+      "Capac. Máxima (m³)": "4.666.188",
+      "Volume Atual (m³)": 223.675,
+      "Volume total (%)": "4,79",
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Pitombeira",
+      "Bacia": "Mamanguape",
+      "Município": "Alagoa Grande",
+      "Capac. Máxima (m³)": "2.955.820",
+      "Volume Atual (m³)": "2.101.418",
+      "Volume total (%)": "71,09",
+      "Data do registro": "16/07/2021"
+    },
+    {
+      "Nome": "Pocinhos",
+      "Bacia": "Região do Alto Curso do Rio Paraíba",
+      "Município": "Monteiro",
+      "Capac. Máxima (m³)": "6.789.305",
+      "Volume Atual (m³)": "4.531.363",
+      "Volume total (%)": "66,74",
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Poleiros",
+      "Bacia": "Curimatau",
+      "Município": "Barra de Santa Rosa",
+      "Capac. Máxima (m³)": "7.933.700",
+      "Volume Atual (m³)": "2.528.882",
+      "Volume total (%)": "31,88",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Poço Redondo",
+      "Bacia": "Piancó",
+      "Município": "Santana de Mangueira",
+      "Capac. Máxima (m³)": "8.931.340",
+      "Volume Atual (m³)": "5.565.888",
+      "Volume total (%)": "62,32",
+      "Data do registro": "08/07/2021"
+    },
+    {
+      "Nome": "Poções",
+      "Bacia": "Região do Alto Curso do Rio Paraíba",
+      "Município": "Monteiro",
+      "Capac. Máxima (m³)": "29.861.562",
+      "Volume Atual (m³)": "21.492.450",
+      "Volume total (%)": "71,97",
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Prata II",
+      "Bacia": "Região do Alto Curso do Rio Paraíba",
+      "Município": "Prata",
+      "Capac. Máxima (m³)": "1.308.433",
+      "Volume Atual (m³)": 475.255,
+      "Volume total (%)": "36,32",
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Queimadas",
+      "Bacia": "Piancó",
+      "Município": "Santana dos Garrotes",
+      "Capac. Máxima (m³)": "15.625.338",
+      "Volume Atual (m³)": "11.887.308",
+      "Volume total (%)": "76,08",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Riacho das Moças",
+      "Bacia": "Espinharas",
+      "Município": "Teixeira",
+      "Capac. Máxima (m³)": "6.413.411",
+      "Volume Atual (m³)": 410.705,
+      "Volume total (%)": "6,40",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Riacho de Santo Antônio",
+      "Bacia": "Região do Médio Curso do Rio Paraíba",
+      "Município": "Riacho de Santo Antônio",
+      "Capac. Máxima (m³)": "6.834.000",
+      "Volume Atual (m³)": 16.315,
+      "Volume total (%)": "0,24",
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Riacho dos Cavalos",
+      "Bacia": "Região do Médio Curso do Rio Piranhas",
+      "Município": "Riacho dos Cavalos",
+      "Capac. Máxima (m³)": "17.699.000",
+      "Volume Atual (m³)": "3.494.680",
+      "Volume total (%)": "19,75",
+      "Data do registro": "23/07/2021"
+    },
+    {
+      "Nome": "Riacho Fundo",
+      "Bacia": "Seridó",
+      "Município": "Tenório",
+      "Capac. Máxima (m³)": 298.616,
+      "Volume Atual (m³)": 166.456,
+      "Volume total (%)": "55,74",
+      "Data do registro": "05/07/2021"
+    },
+    {
+      "Nome": "Riacho Verde",
+      "Bacia": "Piancó",
+      "Município": "Boa Ventura",
+      "Capac. Máxima (m³)": "1.256.250",
+      "Volume Atual (m³)": "1.115.018",
+      "Volume total (%)": "88,76",
+      "Data do registro": "05/07/2021"
+    },
+    {
+      "Nome": "Roçado",
+      "Bacia": "Piancó",
+      "Município": "Conceição",
+      "Capac. Máxima (m³)": 725.178,
+      "Volume Atual (m³)": 652.181,
+      "Volume total (%)": "89,93",
+      "Data do registro": "06/07/2021"
+    },
+    {
+      "Nome": "Sabonete",
+      "Bacia": "Espinharas",
+      "Município": "Teixeira",
+      "Capac. Máxima (m³)": "1.952.540",
+      "Volume Atual (m³)": 1.792,
+      "Volume total (%)": "0,09",
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Saco",
+      "Bacia": "Piancó",
+      "Município": "Nova Olinda",
+      "Capac. Máxima (m³)": "97.488.089",
+      "Volume Atual (m³)": "51.786.138",
+      "Volume total (%)": "53,12",
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Santa Inês",
+      "Bacia": "Piancó",
+      "Município": "Santa Inês",
+      "Capac. Máxima (m³)": "29.684.041",
+      "Volume Atual (m³)": "10.161.009",
+      "Volume total (%)": "34,23",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Santa Luzia",
+      "Bacia": "Seridó",
+      "Município": "Santa Luzia",
+      "Capac. Máxima (m³)": "11.960.250",
+      "Volume Atual (m³)": "1.010.920",
+      "Volume total (%)": "8,45",
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Santa Rosa",
+      "Bacia": "Região do Médio Curso do Rio Piranhas",
+      "Município": "Brejo do Cruz",
+      "Capac. Máxima (m³)": "2.843.984",
+      "Volume Atual (m³)": "2.410.927",
+      "Volume total (%)": "84,77",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Santo Antônio",
+      "Bacia": "Região do Alto Curso do Rio Paraíba",
+      "Município": "São Sebastião do Umbuzeiro",
+      "Capac. Máxima (m³)": "24.424.130",
+      "Volume Atual (m³)": "14.852.451",
+      "Volume total (%)": "60,81",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Saulo Maia",
+      "Bacia": "Mamanguape",
+      "Município": "Areia",
+      "Capac. Máxima (m³)": "9.833.615",
+      "Volume Atual (m³)": "4.952.472",
+      "Volume total (%)": "50,36",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Serra Branca I",
+      "Bacia": "Taperoá",
+      "Município": "Serra Branca",
+      "Capac. Máxima (m³)": "2.117.062",
+      "Volume Atual (m³)": 795.515,
+      "Volume total (%)": "37,58",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Serra Branca II",
+      "Bacia": "Taperoá",
+      "Município": "Serra Branca",
+      "Capac. Máxima (m³)": "14.042.568",
+      "Volume Atual (m³)": 532.695,
+      "Volume total (%)": "3,79",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Serra Vermelha I",
+      "Bacia": "Piancó",
+      "Município": "Conceição",
+      "Capac. Máxima (m³)": "11.801.173",
+      "Volume Atual (m³)": "3.359.665",
+      "Volume total (%)": "28,47",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Serrote",
+      "Bacia": "Região do Alto Curso do Rio Paraíba",
+      "Município": "Monteiro",
+      "Capac. Máxima (m³)": "5.709.000",
+      "Volume Atual (m³)": "1.822.170",
+      "Volume total (%)": "31,92",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Sindô Ribeiro",
+      "Bacia": "Mamanguape",
+      "Município": "Massaranduba",
+      "Capac. Máxima (m³)": "3.022.715",
+      "Volume Atual (m³)": 692.27,
+      "Volume total (%)": "22,90",
+      "Data do registro": "19/07/2021"
+    },
+    {
+      "Nome": "Soledade",
+      "Bacia": "Taperoá",
+      "Município": "Soledade",
+      "Capac. Máxima (m³)": "27.058.000",
+      "Volume Atual (m³)": 476.87,
+      "Volume total (%)": "1,76",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Sumé",
+      "Bacia": "Região do Alto Curso do Rio Paraíba",
+      "Município": "Sumé",
+      "Capac. Máxima (m³)": "44.864.100",
+      "Volume Atual (m³)": "8.866.550",
+      "Volume total (%)": "19,76",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Suspiro",
+      "Bacia": "Camaratuba",
+      "Município": "Serra da Raiz",
+      "Capac. Máxima (m³)": 276.4,
+      "Volume Atual (m³)": 18.581,
+      "Volume total (%)": "6,72",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "São Domingos",
+      "Bacia": "Região do Alto Curso do Rio Paraíba",
+      "Município": "São Domingos do Cariri",
+      "Capac. Máxima (m³)": "7.760.200",
+      "Volume Atual (m³)": "3.907.080",
+      "Volume total (%)": "50,35",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "São Francisco II",
+      "Bacia": "Espinharas",
+      "Município": "Teixeira",
+      "Capac. Máxima (m³)": "4.920.720",
+      "Volume Atual (m³)": 430.925,
+      "Volume total (%)": "8,76",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "São Gonçalo",
+      "Bacia": "Região do Alto Curso do Rio Piranhas",
+      "Município": "Sousa",
+      "Capac. Máxima (m³)": "40.582.277",
+      "Volume Atual (m³)": "24.694.118",
+      "Volume total (%)": "60,85",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "São José I",
+      "Bacia": "Região do Alto Curso do Rio Piranhas",
+      "Município": "São José de Piranhas",
+      "Capac. Máxima (m³)": "3.051.125",
+      "Volume Atual (m³)": "2.591.261",
+      "Volume total (%)": "84,93",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "São José II",
+      "Bacia": "Região do Alto Curso do Rio Paraíba",
+      "Município": "Monteiro",
+      "Capac. Máxima (m³)": "1.311.540",
+      "Volume Atual (m³)": "1.289.129",
+      "Volume total (%)": "98,29",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "São José III",
+      "Bacia": "Taperoá",
+      "Município": "São José dos Cordeiros",
+      "Capac. Máxima (m³)": 956,
+      "Volume Atual (m³)": 584.981,
+      "Volume total (%)": "61,19",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "São José IV",
+      "Bacia": "Seridó",
+      "Município": "São José do Sabugi",
+      "Capac. Máxima (m³)": 554.1,
+      "Volume Atual (m³)": 0,
+      "Volume total (%)": 0,
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "São Mamede",
+      "Bacia": "Seridó",
+      "Município": "São Mamede",
+      "Capac. Máxima (m³)": "15.791.280",
+      "Volume Atual (m³)": 43.398,
+      "Volume total (%)": "0,27",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "São Paulo",
+      "Bacia": "Região do Alto Curso do Rio Paraíba",
+      "Município": "Prata",
+      "Capac. Máxima (m³)": "8.455.500",
+      "Volume Atual (m³)": 736.95,
+      "Volume total (%)": "8,72",
+      "Data do registro": "25/07/2021"
+    },
+    {
+      "Nome": "São Salvador",
+      "Bacia": "Região do Baixo Curso do Rio Paraíba",
+      "Município": "Sapé",
+      "Capac. Máxima (m³)": "12.657.520",
+      "Volume Atual (m³)": "8.157.176",
+      "Volume total (%)": "64,45",
+      "Data do registro": "25/07/2021"
+    },
+    {
+      "Nome": "São Sebastião",
+      "Bacia": "Mamanguape",
+      "Município": "São Sebastião de Lagoa de Roça",
+      "Capac. Máxima (m³)": 453.075,
+      "Volume Atual (m³)": 16.622,
+      "Volume total (%)": "3,67",
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Tapera",
+      "Bacia": "Região do Médio Curso do Rio Piranhas",
+      "Município": "Belém do Brejo do Cruz",
+      "Capac. Máxima (m³)": "26.418.660",
+      "Volume Atual (m³)": "5.538.906",
+      "Volume total (%)": "20,97",
+      "Data do registro": "25/07/2021"
+    },
+    {
+      "Nome": "Taperoá II (Manoel Marcionilo)",
+      "Bacia": "Taperoá",
+      "Município": "Taperoá",
+      "Capac. Máxima (m³)": "14.797.430",
+      "Volume Atual (m³)": "13.347.616",
+      "Volume total (%)": "90,20",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Tauá",
+      "Bacia": "Mamanguape",
+      "Município": "Cuitegi",
+      "Capac. Máxima (m³)": "8.573.500",
+      "Volume Atual (m³)": "5.364.670",
+      "Volume total (%)": "62,57",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Tavares II",
+      "Bacia": "Piancó",
+      "Município": "Tavares",
+      "Capac. Máxima (m³)": "9.000.000",
+      "Volume Atual (m³)": "8.755.247",
+      "Volume total (%)": "97,28",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Timbaúba",
+      "Bacia": "Piancó",
+      "Município": "Juru",
+      "Capac. Máxima (m³)": "15.438.572",
+      "Volume Atual (m³)": "8.255.998",
+      "Volume total (%)": "53,48",
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Vaca Brava",
+      "Bacia": "Mamanguape",
+      "Município": "Areia",
+      "Capac. Máxima (m³)": "3.783.556",
+      "Volume Atual (m³)": 10.467,
+      "Volume total (%)": "0,28",
+      "Data do registro": "27/07/2021"
+    },
+    {
+      "Nome": "Vazante",
+      "Bacia": "Piancó",
+      "Município": "Diamante",
+      "Capac. Máxima (m³)": "9.091.200",
+      "Volume Atual (m³)": "8.368.383",
+      "Volume total (%)": "92,05",
+      "Data do registro": "14/07/2021"
+    },
+    {
+      "Nome": "Video",
+      "Bacia": "Piancó",
+      "Município": "Conceição",
+      "Capac. Máxima (m³)": "6.040.264",
+      "Volume Atual (m³)": "4.941.426",
+      "Volume total (%)": "81,81",
+      "Data do registro": "20/07/2021"
+    },
+    {
+      "Nome": "Várzea",
+      "Bacia": "Seridó",
+      "Município": "Várzea",
+      "Capac. Máxima (m³)": "1.132.975",
+      "Volume Atual (m³)": 44.746,
+      "Volume total (%)": "3,95",
+      "Data do registro": "26/07/2021"
+    },
+    {
+      "Nome": "Várzea Grande",
+      "Bacia": "Seridó",
+      "Município": "Picuí",
+      "Capac. Máxima (m³)": "21.532.659",
+      "Volume Atual (m³)": 160.81,
+      "Volume total (%)": "0,75",
+      "Data do registro": "19/07/2021"
+    }
+  ]
+}
